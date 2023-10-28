@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "name": "Marcelle",
+      "id": 1
+    },
+    {
+      "name": "Ashley",
+      "id": 2
+    },
+    {
+      "name": "Destiney",
+      "id": 3
+    },
+    {
+      "name": "Garland",
+      "id": 4
+    },
+    {
+      "name": "Alexie",
+      "id": 5
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
