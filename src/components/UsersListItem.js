@@ -9,7 +9,7 @@ function UsersListItem({ user }) {
     const [doRemoveUser, isLoading, error] = useThunk(removeUser);
 
     const header = <>
-        <Button className='mr-3' loading={isLoading} onClick={() => doRemoveUser(user)}>
+        <Button className='mr-3' danger rounded loading={isLoading} onClick={() => doRemoveUser(user)}>
             <GoTrash/>
         </Button>
         {error && <div>Error deleting user.</div>}
@@ -17,7 +17,7 @@ function UsersListItem({ user }) {
     </>;
 
     return (
-        <ExpandablePane header={header}>
+        <ExpandablePane header={header} className='bg-indigo-50'>
             <AlbumsList user={user}/>
         </ExpandablePane>
     );

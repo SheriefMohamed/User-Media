@@ -19,8 +19,88 @@
     {
       "name": "Alexie",
       "id": 5
+    },
+    {
+      "name": "Jeramie",
+      "id": 6
+    },
+    {
+      "name": "Jaleel",
+      "id": 7
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 2,
+      "title": "Licensed Rubber Cheese",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "title": "Unbranded Granite Table",
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "title": "Elegant Plastic Table",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "title": "Modern Concrete Towels",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Practical Bronze Bacon",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Granite Pizza",
+      "id": 18
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4705920456065024",
+      "id": 1
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3166336259719168",
+      "id": 2
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2387319617224704",
+      "id": 3
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7387290628259840",
+      "id": 9
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3128244861665280",
+      "id": 10
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4178587957592064",
+      "id": 11
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7447977712943104",
+      "id": 12
+    }
+  ]
 }

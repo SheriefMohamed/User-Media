@@ -23,7 +23,7 @@ function Button({
       'border-green-500 bg-green-500 text-white': success,
       'border-yellow-400 bg-yellow-400 text-white': warning,
       'border-red-500 bg-red-500 text-white': danger,
-      'rounded-full': rounded,
+      'rounded-lg': rounded,
       'bg-white': outline,
       'text-blue-500': outline && primary,
       'text-gray-900': outline && secondary,
