@@ -32,4 +32,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshot
 
-![User-media](https://github.com/SheriefMohamed/User-Media/assets/78177060/6cd1e546-234d-4807-bedb-0c57e8409fbe)
+![User-media](https://github.com/SheriefMohamed/User-Media/assets/78177060/880409e9-3a49-4b67-8986-0ddb954d69c1)
